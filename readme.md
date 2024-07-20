@@ -3,5 +3,5 @@
 
 Nama Anggota:
 - Muhammad Abdul Jabbar - FrontEnd & Backend
-- Heltrizulfikar - Fungsi tengok tengok
+- Heltrizulfikar - UI/UX
 
